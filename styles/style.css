@@ -85,7 +85,12 @@
 
 .header__link {
   text-decoration: none;
-  color:#2f80ed
+  color:#2f80ed;
+  /* position: relative; */
+}
+
+.header__link::after {
+  content: " →";
 }
 
 /* КОНЕЦ СТИЛЕЙ HEADER */
