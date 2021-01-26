@@ -98,7 +98,7 @@
 /* КОНЕЦ СТИЛЕЙ HEADER */
 /* НАЧАЛО СТИЛЕЙ  DESCRIPTION */
 .description {
-  margin: 100px auto;
+  margin-top: 100px;
 }
 
 .two-columns {
@@ -142,9 +142,7 @@
 /* КОНЕЦ СТИЛЕЙ DESCTIRPTION */
 /* НАЧАЛО СТИЛЕЙ БЛОКА DIGITS */
 .digits {
-  /* display: flex;
-  flex-flow: row wrap; */
-
+  margin-top: 100px;
 }
 
 .digits-title {
@@ -153,21 +151,20 @@
   align-items: center;
   margin: auto;
   width: 60%;
-  background-color: #2f80ed;
 }
 
 .section-title {
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
 }
 
 .section__subtitle {
   line-height: 34px;
   font-size: 24px;
   font-weight: 400;
-  margin-bottom: 60px;
+  margin: 0;
 }
 
 .table {
@@ -176,12 +173,13 @@
   justify-content: space-between;
   margin: auto;
   width: 1100px;
-  margin-top: 60px;
+  padding-top: 60px;
 
 }
 
 .table__cell {
   width: 250px;
+  margin-bottom: 60px;
 }
 
 .table__heading {
