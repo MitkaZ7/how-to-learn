@@ -19,8 +19,12 @@
   background-color: #f2f2f2;
 }
 
-.logo_place_header {
+.logo {
   width: 183px;
+}
+
+
+.logo_place_header {
   height: 32px;
   position: absolute;
   top: 0;
@@ -41,7 +45,7 @@
 .header__title-text {
   line-height: 96px;
   font-size: 102px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .header__subtitle {
@@ -127,7 +131,7 @@
 }
 
 .two-columns__span-accent {
-  font-weight: 600;
+  font-weight: 700;
 }
 /* конец стилей description */
 /* конец стилей digits */
@@ -146,7 +150,7 @@
 .section-title {
   line-height: 1.15;
   font-size: 60px;
-  font-weight: 600;
+  font-weight: 700;
   margin: auto;
   width: 60%;
   display: flex;
@@ -180,7 +184,7 @@
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 700;
   margin-bottom: 20px;
 }
 
@@ -206,7 +210,7 @@
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
-  font-weight: 600;
+  font-weight: 700;
   text-align: center;
   margin-bottom: 70px;
 }
@@ -249,7 +253,7 @@
 .section-title_theme_dark {
   line-height: 1.15px;
   font-size: 60px;
-  font-weight: 600;
+  font-weight: 700;
   margin-top: 90px;
 }
 
@@ -273,7 +277,7 @@
 .table__heading_theme_dark {
   line-height: 1.15;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 700;
   margin-bottom: 20px;
 }
 
@@ -319,7 +323,6 @@
 }
 
 .logo_place_footer {
-  width: 183px;
   height: 35px;
 }
 
@@ -350,7 +353,7 @@
   margin: 0;
   line-height: 30px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .footer__column-links {
@@ -371,21 +374,4 @@
 .column-links__social-icon {
   margin-right: 10px;
 }
-
 /* конец стилей footer */
-
-
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-/* .header__square-pic {
-  height: 568px;
-  width: 568px;
-} */
-
-/* и элемента с модификатором вида ключ-значение */
-/* .table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-} */
