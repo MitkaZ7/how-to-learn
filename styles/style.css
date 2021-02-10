@@ -128,13 +128,14 @@
   margin-top: 100px;
 }
 
+/* можно удалить, не испольуется как класс и вообще
 .digits-title {
   display: flex;
   flex-flow: column wrap;
   align-items: center;
   margin: 0 auto;
   width: 60%;
-}
+} */
 
 .section-title {
   line-height: 1.15;
@@ -316,7 +317,7 @@
   margin-right: auto;
 }
 
-.footer__colum {
+.footer__column {
   display: flex;
   flex-direction: column;
 }
@@ -340,11 +341,11 @@
   justify-content: space-between;
 }
 
-.footer__column_info {
+.footer__column_content_info {
 
 }
 
-.footer__column_social {
+.footer__column_content_social {
 
 }
 
@@ -368,8 +369,8 @@
 .footer__column-link {
   text-decoration: none;
   color:#fff;
-
 }
+
 .footer__social-icon {
   margin-right: 10px;
 }
