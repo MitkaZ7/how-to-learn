@@ -8,11 +8,11 @@
   top: 50%;
   right: 48px;
   margin: 0;
-  transition: .5s linear;
+  transition: .5s ease;
 }
 
 .feynman__link::after {
-  content: " →";
+  content: " \2192";
 }
 
 .feynman__link:hover {
