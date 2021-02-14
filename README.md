@@ -2,7 +2,7 @@
 #### Создана в рамках обучения по специальности "Веб разработчик" в [Яндекс Практикуме](https://praktikum.yandex.ru)
 
 ### Описание
-Брифы: [Первый спринт](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf) [Второй спринт](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
+Брифы: [Первый спринт](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf), [Второй спринт](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
 
 Одностраничный сайт про различные методики обучения.
 Сверстан в качестве первой проектной работы.
