@@ -4,6 +4,5 @@
   font-weight: 700;
   margin: auto;
   max-width: 60%;
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }

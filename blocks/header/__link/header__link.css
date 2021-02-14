@@ -4,11 +4,6 @@
   transition: .5s linear;
 }
 
-.header__link::after {
-  content: " \2192";
-}
-
-
 .header__link:hover {
   opacity: .4;
 }
